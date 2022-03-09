@@ -88,8 +88,8 @@
                 "sale" : true,
                 "inStock" : true,
                 "description" : "The COOLPIX B500 feels great in your hands, whether you're zooming in with its super telephoto NIKKOR glass lens or recording 1080p Full HD video using the flip-up LCD. And it takes all the work out of shooting beautiful photos and videos with its 16 megapixel low-light sensor, Lens-Shift Vibration Reduction (VR), easy menus and controls, fun creative effects and outstanding automatic operation. Plus, the whole time you're shooting, the COOLPIX B500 can be easily and seamlessly connected to a compatible smartphone through Bluetooth® low energy (BLE) technology for instant photo sharing and remote camera control. Simply brilliant."
-            },
-            {
+        },
+        {
 
                 "id":5,
                 "name" : "COOLPIX A1000",
@@ -176,7 +176,51 @@
                                 "sale" : true,
                                 "inStock" : true,
                                 "description" : "Some people are happy to take pictures from the comfort of the sidelines. That's nice. But if you want to be part of the action, you need a camera as tough as you. For those thrill seekers and action-hounds, meet the COOLPIX W300, a tough-as-nails camera designed for the extremes. Waterproof, freezeproof, shockproof and dustproof, it captures 4K Ultra HD video, 16 MP photos, time-lapse movies and more in the harshest conditions. Bring it surfing, skiing, SCUBA diving, biking, climbing...wherever your adventures lead. Use the built-in GPS, eCompass, altimeter, Wi-Fi® and Bluetooth® Low Energy to track and share every heart-pounding moment. Show the world what you're really made of."
-                            }
+                         },
+                         {
+
+                            "id":8,
+                            "name" : "FUJIFILM X-T30",
+                            "brand" : "Fujifilm",
+                            "categories" : "BridgeZoom",
+                            "price" : {
+                                "newPrice" :"499.99" ,
+                                "oldPrice" : "549.99"
+                            },
+                                "image":{
+                                    "src":"images/fujifilm/image1.jpg",
+                                    "alt" : "FUJIFILM X-T30"
+                            
+                                },
+                                "popularity": 4,
+                                "bestSelling": true,
+                                "new" : false,
+                                "sale" : true,
+                                "inStock" : true,
+                                "description" : "The FUJIFILM X-T30, offers similar performance to the FUJIFILM X-T3, in a smaller and lighter body. It has the same phase-detection AF system with almost 100% frame coverage, blackout-free high-speed continuous shooting of up to 30fps, monochrome adjustment function, Color Chrome effect and Sports Viewfinder mode while also offering functions that cater to the less professional photographer, such as the Advanced SR Auto function as well."
+                         },
+                         {
+
+                            "id":9,
+                            "name" : "FUJIFILM X-T30 II",
+                            "brand" : "Fujifilm",
+                            "categories" : "BridgeZoom",
+                            "price" : {
+                                "newPrice" :"769.99" ,
+                                "oldPrice" : "799.99"
+                            },
+                                "image":{
+                                    "src":"images/fujifilm/image1.jpg",
+                                    "alt" : "FUJIFILM X-T30 II"
+                            
+                                },
+                                "popularity": 4,
+                                "bestSelling": true,
+                                "new" : false,
+                                "sale" : true,
+                                "inStock" : true,
+                                "description" : "The new FUJIFILM X-T30 II inherits the compact and lightweight camera body, popular with the “FUJIFILM X-T30” (the previous model), but delivers high-speed AF performance and image quality equivalent to the flagship model, “FUJIFILM X-T4” (X-T4). The X-T30 II features a high-resolution 1.62-million-dot LCD monitor on the rear panel, an upgrade from the previous model, to achieve evolution in both hardware and software"
+                         }
 
                     
     
