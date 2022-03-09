@@ -192,7 +192,7 @@
                                     "alt" : "FUJIFILM X-T30"
                             
                                 },
-                                "popularity": 4,
+                                "popularity": 5,
                                 "bestSelling": true,
                                 "new" : false,
                                 "sale" : true,
@@ -210,16 +210,60 @@
                                 "oldPrice" : "799.99"
                             },
                                 "image":{
-                                    "src":"images/fujifilm/image1.jpg",
+                                    "src":"images/fujifilm/image2.jpg",
                                     "alt" : "FUJIFILM X-T30 II"
                             
                                 },
-                                "popularity": 4,
+                                "popularity": 4.5,
                                 "bestSelling": true,
                                 "new" : false,
                                 "sale" : true,
                                 "inStock" : true,
                                 "description" : "The new FUJIFILM X-T30 II inherits the compact and lightweight camera body, popular with the “FUJIFILM X-T30” (the previous model), but delivers high-speed AF performance and image quality equivalent to the flagship model, “FUJIFILM X-T4” (X-T4). The X-T30 II features a high-resolution 1.62-million-dot LCD monitor on the rear panel, an upgrade from the previous model, to achieve evolution in both hardware and software"
+                         },
+                         {
+
+                            "id":10,
+                            "name" : "FUJIFILM GFX50S II",
+                            "brand" : "Fujifilm",
+                            "categories" : "BridgeZoom",
+                            "price" : {
+                                "newPrice" :"3899.99" ,
+                                "oldPrice" : "4199.99"
+                            },
+                                "image":{
+                                    "src":"images/fujifilm/image3.jpg",
+                                    "alt" : "FUJIFILM GFX50S II"
+                            
+                                },
+                                "popularity": 5,
+                                "bestSelling": false,
+                                "new" : false,
+                                "sale" : false,
+                                "inStock" : true,
+                                "description" : "The FUJIFILM GFX50S II is built around a highly resolving 51.4MP large format sensor, while retaining a comfortable and portable form factor. Utilising specially shaped micro lenses that focus light more efficiently, the camera boasts superlative detail and clarity. This also improves performance across ISO sensitivity, dynamic range and tonality."
+                         },
+                         {
+
+                            "id":10,
+                            "name" : "FUJIFILM GFX50S II",
+                            "brand" : "Fujifilm",
+                            "categories" : "BridgeZoom",
+                            "price" : {
+                                "newPrice" :"3899.99" ,
+                                "oldPrice" : "4199.99"
+                            },
+                                "image":{
+                                    "src":"images/fujifilm/image3.jpg",
+                                    "alt" : "FUJIFILM GFX50S II"
+                            
+                                },
+                                "popularity": 5,
+                                "bestSelling": false,
+                                "new" : false,
+                                "sale" : false,
+                                "inStock" : true,
+                                "description" : "The FUJIFILM GFX50S II is built around a highly resolving 51.4MP large format sensor, while retaining a comfortable and portable form factor. Utilising specially shaped micro lenses that focus light more efficiently, the camera boasts superlative detail and clarity. This also improves performance across ISO sensitivity, dynamic range and tonality."
                          }
 
                     
